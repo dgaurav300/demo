@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>React Project </h1>
-      <p>Hello </p>
+      <p>{5*3} </p>
     </div>
   );
 }
